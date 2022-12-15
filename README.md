@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # basix-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# basic-app-vue
+A basic app for Vue JS, containing widgets, authentication and api examples.
+>>>>>>> 6a0d6348075007dbcbc344fea40a2d8e3dbfc972
