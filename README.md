@@ -1,34 +1,14 @@
-<<<<<<< HEAD
-# basix-app
+---
+sidebar_position: 2
+---
 
-This template should help get you started developing with Vue 3 in Vite.
+# Set up a basic app with Vue JS
 
-## Recommended IDE Setup
+## Prerequirements
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. You need basic knowlage of git and we work with the [Github CLI](https://cli.github.com)
+2. You need npm to install the github repository on your local host [Github CLI](https://www.npmjs.com)
 
-## Customize configuration
+`git clone https://github.com/CampingCare/basic-app-vue.git`
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-=======
-# basic-app-vue
-A basic app for Vue JS, containing widgets, authentication and api examples.
->>>>>>> 6a0d6348075007dbcbc344fea40a2d8e3dbfc972
+`npm install`
